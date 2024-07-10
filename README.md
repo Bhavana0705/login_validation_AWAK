@@ -4,14 +4,14 @@ A simple login page with form validation and a "Show Password" feature.
 
 ## Files
 
-- index.html: HTML structure.
-- index.css: CSS styling.
-- index.js: JavaScript for form validation and functionality.
+- `index.html`: HTML structure.
+- `index.css`: CSS styling.
+- `index.js`: JavaScript for form validation and functionality.
 
 ## How to Run
 
-1. Download the project files.
-2. Open `index.html` in your web browser.
+1. **Download the project files.**
+2. **Open `index.html` in your web browser.**
 
 ## Usage
 
@@ -25,4 +25,10 @@ A simple login page with form validation and a "Show Password" feature.
 - Form validation.
 - "Show Password" toggle.
 
+## Live Demo
 
+Check out the live demo [here](https://your-username.github.io/login-page-project).
+
+## License
+
+This project is open source and available under the MIT License.
