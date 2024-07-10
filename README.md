@@ -25,6 +25,15 @@ A simple login page with form validation and a "Show Password" feature.
 - Form validation.
 - "Show Password" toggle.
 
+## API Integration
+
+This project uses the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API to simulate a login request. The integration is done using the `fetch` method in JavaScript.
+
+### API Endpoint
+
+- URL: `https://jsonplaceholder.typicode.com/posts`
+- Method: `POST`
+
 ## Live Demo
 
 Check out the live demo [here](https://bhavana0705.github.io/login_validation_AWAK/).
