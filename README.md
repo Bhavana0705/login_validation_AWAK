@@ -27,8 +27,6 @@ A simple login page with form validation and a "Show Password" feature.
 
 ## Live Demo
 
-Check out the live demo [here](https://your-username.github.io/login-page-project).
+Check out the live demo [here](https://bhavana0705.github.io/login_validation_AWAK/).
 
-## License
 
-This project is open source and available under the MIT License.
